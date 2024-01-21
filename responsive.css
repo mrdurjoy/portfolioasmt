@@ -1,0 +1,220 @@
+@media screen and (max-width: 600px) {
+    /* header starts */
+  
+    /* navbar starts */
+  
+    nav {
+      margin-left: 50px;
+      position: relative;
+    }
+    .nav-bar {
+      display: none;
+    }
+  
+    #hide {
+      display: inline-block;
+      position: absolute;
+      margin-left: 420px;
+      margin-top: -23px;
+    }
+    .website-name {
+      width: 100%;
+    }
+  
+    .website-name-h3 {
+      font-size: 2rem;
+    }
+  
+    .website-logo {
+      width: 10%;
+    }
+  
+    /* nav starts */
+  
+    nav {
+      margin-left: 50px;
+      position: relative;
+    }
+    .nav-bar {
+      display: none;
+    }
+  
+    #hide {
+      display: inline-block;
+      position: absolute;
+      margin-left: 400px;
+      margin-top: -30px;
+    }
+    .website-name {
+      width: 100%;
+    }
+  
+    .website-name-h3 {
+      font-size: 2rem;
+    }
+  
+    .website-logo {
+      width: 10%;
+    }
+  
+    /* banner starts */
+  
+    .banner-container {
+      width: 500px;
+      height: 600px;
+      margin: 0 auto;
+      background-size: cover;
+      margin-top: 50px;
+    }
+  
+    .banner-h1 {
+      color: #fff;
+      font-size: 2.5rem;
+      font-weight: 800;
+    }
+  
+    .banner-items {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      width: 80%;
+    }
+  
+    #banner-btn,
+    #banner-item-text,
+    #banner-item-type,
+    #banner-item-when {
+      width: 90%;
+    }
+  
+    #when-icon {
+      margin-left: 310px;
+      margin-top: 91px;
+    }
+  
+    #types-icon {
+      margin-left: 310px;
+      margin-top: 162px;
+    }
+  
+    /* main starts */
+  
+    /* popular tours starts*/
+  
+    .popular-tours-container {
+      display: flex;
+      flex-direction: column;
+      margin-top: 0px;
+    }
+    .popular-tours-text {
+      width: 100%;
+      padding: 50px;
+    }
+  
+    .popular-tours-img {
+      width: 100%;
+      width: 335px;
+      height: 340px;
+      margin: 0 auto;
+    }
+  
+    /* destination starts */
+  
+    .row-1,
+    .row-2,
+    .row-3 {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-top: 0px;
+    }
+  
+    .item1,
+    .item2,
+    .item3,
+    .item4,
+    .item5,
+    .item6,
+    .item7 {
+      width: 450px;
+      height: 276px;
+      margin-top: 24px;
+      background-size: cover;
+    }
+  
+    /* choose us starts */
+  
+    .choose-us-box-1-2 {
+      flex-direction: column;
+    }
+  
+    .choose-us-box-1,
+    .choose-us-box-2,
+    .choose-us-box-3 {
+      width: 335px;
+      height: 350px;
+      border-radius: 16px;
+      padding: 32px;
+      margin-bottom: 22px;
+    }
+  
+    /* tour */
+  
+    .our-deals {
+      width: 550px;
+      height: 500px;
+      margin: 0 auto;
+      border-radius: 20px;
+      margin-bottom: 24px;
+    }
+  
+    .our-deal-pack {
+      width: 80%;
+      margin-left: 43px;
+    }
+  
+    #deals-reverse{
+      width: 80%;
+      margin-left: 43px;
+    }
+  
+    /* we provide starts */
+  
+    .we-provide-container {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .service {
+      margin-top: 40px;
+    }
+  
+    /* newsletter starts */
+  
+    .newsletter-container {
+      flex-direction: column;
+    }
+  
+    .news-text {
+      width: 80%;
+    }
+  
+    .news-img {
+      margin-top: 50px;
+      width: 80%;
+    }
+  
+    /* footer starts */
+  
+    #footer-name {
+      justify-content: center;
+      width: 100%;
+      padding-top: 60px;
+    }
+    .save-upto {
+      margin-top: -268px;
+      margin-left: 188px;
+    }
+  }
+  
